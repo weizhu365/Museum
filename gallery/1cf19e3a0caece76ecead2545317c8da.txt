@@ -1,0 +1,10 @@
+# A tibble: 6 x 2
+# Groups:   symbol [6]
+  symbol           data
+  <chr>  <list<df[,7]>>
+1 MSFT      [2,516 × 7]
+2 AAPL      [2,516 × 7]
+3 AMZN      [2,516 × 7]
+4 FB        [1,939 × 7]
+5 GOOG      [2,516 × 7]
+6 JPM       [2,516 × 7]
